@@ -1,3 +1,21 @@
 textarea {
     min-height: 400px;
 }
+
+.emailbox1{
+    padding: 10px;
+    background-color: ivory;
+    border: 2px;
+    margin: 5px;
+    border-color: black;
+    border-style: dotted;
+}
+
+.emailbox2{
+    padding: 10px;
+    background-color:grey;
+    border: 2px;
+    margin: 5px;
+    border-color: black;
+    border-style: dotted;
+}
